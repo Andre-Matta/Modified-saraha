@@ -1,0 +1,33 @@
+﻿  ContactsPage.cpp
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(51,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(153,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(169,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(189,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(191,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(202,22): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(442,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(456,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(471,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(545,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(554,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(558,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(629,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(645,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(659,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(674,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(676,45): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(789,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(805,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(819,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(829,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(842,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(859,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(986,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(1002,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(1018,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(34): warning C4715: 'ContactsPage::getUsername': not all control paths return a value
+C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\ContactsPage.cpp(43): warning C4715: 'ContactsPage::getContactId': not all control paths return a value
+  saraha.vcxproj -> C:\Users\Andy\Downloads\Studies\College projects\Year 2\saraha\Debug\saraha.exe
